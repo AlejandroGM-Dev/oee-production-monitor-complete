@@ -110,14 +110,7 @@ git --version
 Clonar el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd oee-production-monitor
-```
-
-Ejemplo:
-
-```bash
-git clone https://github.com/<usuario>/oee-production-monitor.git
+git clone https://github.com/AlejandroGM-Dev/oee-production-monitor-complete.git
 cd oee-production-monitor
 ```
 
