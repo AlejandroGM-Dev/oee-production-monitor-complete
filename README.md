@@ -111,7 +111,7 @@ Clonar el repositorio:
 
 ```bash
 git clone https://github.com/AlejandroGM-Dev/oee-production-monitor-complete.git
-cd oee-production-monitor
+cd oee-production-monitor-complete
 ```
 
 ---
